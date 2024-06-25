@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_newsplit.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/10 14:09:25 by dbarrene          #+#    #+#             */
 /*   Updated: 2024/06/06 21:31:19 by dbarrene         ###   ########.fr       */

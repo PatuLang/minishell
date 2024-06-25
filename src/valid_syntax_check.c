@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   valid_syntax_check.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/25 17:27:49 by plang             #+#    #+#             */
 /*   Updated: 2024/06/06 20:36:58 by dbarrene         ###   ########.fr       */

@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   valid_quotes.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/18 10:17:25 by plang             #+#    #+#             */
 /*   Updated: 2024/06/05 14:54:33 by plang            ###   ########.fr       */

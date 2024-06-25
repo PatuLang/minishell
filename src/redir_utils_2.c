@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   redir_utils_2.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/24 01:01:28 by dbarrene          #+#    #+#             */
 /*   Updated: 2024/06/07 10:37:25 by plang            ###   ########.fr       */

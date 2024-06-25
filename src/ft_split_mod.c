@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split_mod.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/21 17:17:42 by plang             #+#    #+#             */
 /*   Updated: 2024/06/04 15:24:12 by plang            ###   ########.fr       */

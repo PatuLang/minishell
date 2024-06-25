@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   exec_signals.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/06 21:26:44 by plang             #+#    #+#             */
 /*   Updated: 2024/06/07 11:07:15 by plang            ###   ########.fr       */

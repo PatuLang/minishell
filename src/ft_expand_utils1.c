@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_expand_utils1.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/05 17:08:54 by plang             #+#    #+#             */
 /*   Updated: 2024/06/06 18:48:21 by plang            ###   ########.fr       */

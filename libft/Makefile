@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: plang <plang@student.42.fr>                +#+  +:+       +#+         #
+#    By: plang <plang@student.hive.fi>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/01/24 10:40:52 by dbarrene          #+#    #+#              #
 #    Updated: 2024/06/10 13:40:01 by dbarrene         ###   ########.fr        #

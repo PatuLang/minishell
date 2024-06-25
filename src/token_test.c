@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   token_test.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/21 13:44:54 by dbarrene          #+#    #+#             */
 /*   Updated: 2024/06/12 15:31:27 by dbarrene         ###   ########.fr       */

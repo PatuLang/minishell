@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   valid_pipes.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/17 14:06:11 by plang             #+#    #+#             */
 /*   Updated: 2024/06/05 14:54:38 by plang            ###   ########.fr       */

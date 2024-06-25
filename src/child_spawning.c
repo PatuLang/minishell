@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   child_spawning.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/02 13:56:38 by dbarrene          #+#    #+#             */
 /*   Updated: 2024/06/12 14:51:04 by dbarrene         ###   ########.fr       */

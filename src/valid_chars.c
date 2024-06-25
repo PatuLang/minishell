@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   valid_chars.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: plang <plang@student.42.fr>                +#+  +:+       +#+        */
+/*   By: plang <plang@student.hive.fi>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/19 13:42:20 by plang             #+#    #+#             */
 /*   Updated: 2024/06/12 14:22:37 by dbarrene         ###   ########.fr       */
