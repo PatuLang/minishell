@@ -6,7 +6,7 @@
 #    By: plang <plang@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/03/07 14:15:56 by dbarrene          #+#    #+#              #
-#    Updated: 2024/06/07 12:39:37 by dbarrene         ###   ########.fr        #
+#    Updated: 2024/06/12 17:43:03 by dbarrene         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,7 +14,7 @@
 NAME = minishell
 
 CC	= cc
-CFLAGS = -Wall -Wextra -g -Werror 
+CFLAGS = -Wall -Wextra -g -Werror
 
 SRCDIR = src
 OBJDIR = obj
@@ -29,6 +29,8 @@ HEADERS = -I ./includes
 LIBFT = $(LIBFTPATH)/libft.a
 
 SRCS = $(SRCDIR)/main.c\
+
+BSRCS = $(SRCDIR)/main_bonus.c\
 
 CSRCS = $(SRCDIR)/parsing.c\
 		$(SRCDIR)/tokenizing.c\
@@ -47,6 +49,7 @@ CSRCS = $(SRCDIR)/parsing.c\
 		$(SRCDIR)/ft_pwd.c\
 		$(SRCDIR)/ft_unset.c\
 		$(SRCDIR)/ft_cd.c\
+		$(SRCDIR)/ft_cd_utils.c\
 		$(SRCDIR)/ft_exit.c\
 		$(SRCDIR)/valid_chars.c\
 		$(SRCDIR)/valid_quotes.c\
@@ -77,12 +80,13 @@ CSRCS = $(SRCDIR)/parsing.c\
 		$(SRCDIR)/ft_quoteclean.c\
 		
 OBJS= $(patsubst $(SRCDIR)/%.c, $(OBJDIR)/%.o, $(SRCS))
+BOBJS= $(patsubst $(SRCDIR)/%.c, $(OBJDIR)/%.o, $(BSRCS))
 COBJS= $(patsubst $(SRCDIR)/%.c, $(OBJDIR)/%.o, $(CSRCS))
 
 all: $(NAME)
 
 $(OBJDIR)/%.o: $(SRCDIR)/%.c
-	@$(CC) $(CFLAGS) -c $< -o $@
+	$(CC) $(CFLAGS) -c $< -o $@
 
 $(NAME): $(LIBFT) $(OBJDIR) $(COBJS) $(OBJS)
 	@echo $(NAME) is being compiled...
@@ -93,6 +97,13 @@ $(LIBFT):
 
 $(OBJDIR):
 	@mkdir -p $(OBJDIR)
+
+bonus: .bonus
+
+.bonus: $(LIBFT) $(OBJDIR) $(BOBJS) $(BSRCS) $(COBJS) $(OBJS)
+	@echo $(NAME) is being compiled with bonuses...
+	@$(CC) $(CFLAGS) $(COBJS) $(BOBJS) -L$(LIBFTPATH) -lft -o $(NAME)
+	@touch .bonus
 
 clean:
 	@make -C $(LIBFTPATH) clean
