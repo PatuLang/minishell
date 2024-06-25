@@ -3,13 +3,12 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: plang <plang@student.hive.fi>                +#+  +:+       +#+         #
+#    By: plang <plang@student.hive.fi>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/03/07 14:15:56 by dbarrene          #+#    #+#              #
-#    Updated: 2024/06/12 17:43:03 by dbarrene         ###   ########.fr        #
+#    Created: 2024/06/25 17:21:57 by plang             #+#    #+#              #
+#    Updated: 2024/06/25 17:22:09 by plang            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
-
 
 NAME = minishell
 
